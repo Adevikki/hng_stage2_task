@@ -1,4 +1,3 @@
-![hngStage2Task](https://user-images.githubusercontent.com/54329332/129852270-b537a520-89cb-4af6-ba6f-4dd7bc3a01f8.gif)
 # user_input_display
 
 simple app that collects user input and displays the input on the screen
